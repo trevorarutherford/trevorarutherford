@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Trevor Rutherford</h1>
 <h3 align="center">I am a software developer from Vancouver, Canada with a B.Sc. in Computer Science and Music and several years of professional experience building web, mobile, and desktop apps for various tech companies.</h3>
 
-- 🔭 I’m currently working on **a to-do list and habit tracker web app using Microsoft Azure, ReactJS, and ASP.NET**
-
-- 👨‍💻 See some of my shipped products at [https://www.linkedin.com/in/trevor-rutherford-27a78a213/details/projects/](https://www.linkedin.com/in/trevor-rutherford-27a78a213/details/projects/)
+- 👨‍💻 See some shipped products I have worked on at [https://www.linkedin.com/in/trevor-rutherford-27a78a213/details/projects/](https://www.linkedin.com/in/trevor-rutherford-27a78a213/details/projects/)
 
 - 💬 What my colleagues say about me **https://www.linkedin.com/in/trevor-rutherford-27a78a213/details/recommendations/?detailScreenTabIndex=0**
 
 - 📫 How to reach me **trevorarutherford@gmail.com**
+
+- 🔭 I’m currently working on **a productivity web app using Microsoft Azure, ReactJS, and ASP.NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
